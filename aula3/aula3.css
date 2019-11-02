@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+html{
+    width:100%;
+    height:100%;
+}
+body {
+    background-color:white;
+    background-size: cover;
+}
+.div__maior {
+    background-color:white;
+    width:500px;
+    height:500px;
+    margin:0 auto;
+    border-radius: 10px;
+
+}
+.formulario{
+    width:0 auto;
+    height:0 auto;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.cadastro {
+    margin:0 auto;
+}
+.nome__email__senha {
+    margin:0 auto;
+}
+.gosta__de__chocolate {
+    margin:0 auto;
+}
+.botão {
+    margin:0 auto;
+}
+.idade{
+    margin:0 auto;
+}
+.bandas{
+    margin:0 auto;
+}

@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.sobre {
+    background-color: greenyellow;
+    width: 960px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.sobre__conteudo {
+    width: 45%;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.sobre__imagem {
+    width: 45%;
+    display: inline-block;
+}
+
+.sobre__botao {
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 60px;
+    height: 60px;
+    border-radius: 2px;
+}
