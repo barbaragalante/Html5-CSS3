@@ -51,7 +51,7 @@ body {
     align-items: center;
     width: 100vw;
     min-height:95vh;
-    background-image:url(bg-banner.jpg);
+    background-image:url(/img/bg-banner.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -136,7 +136,7 @@ font-weight: 580;
 }
 /*====SERVICOS====*/
 .servicos {
-    background-image: url(bg-servicos.jpg);
+    background-image: url(/img/bg-servicos.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
